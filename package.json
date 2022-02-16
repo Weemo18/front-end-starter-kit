@@ -1,0 +1,21 @@
+{
+  "name": "front-end-starter-kit",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Weemo18/front-end-starter-kit.git"
+  },
+  "author": "Annalisa",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-csso": "^4.0.1",
+    "gulp-sass": "^5.1.0",
+    "gulp-uglify": "^3.0.2",
+    "jquery": "^3.6.0",
+    "node-sass": "^7.0.1",
+    "sass": "^1.49.7"
+  }
+}
